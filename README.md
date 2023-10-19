@@ -9,7 +9,7 @@ class DataEngineer:
     self.cloud_services = {"AWS" : ["EC2", "Lambda", "RDS", "IAM"]}
     self.data_skills = ["SQL", "Data warehouse", "Data lake"]
 
-  def say_hell(self):
+  def say_hello(self):
     print("Hello! Thanks for visiting!")
 
 
